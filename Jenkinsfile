@@ -23,7 +23,7 @@ node{
                         [
                                 artifactId: 'sreproject',
                                 classifier: '',
-                                file: 'target/raviproject.jar',
+                                file: 'target/sreproject.jar',
                                 type: 'jar'
                                 ]
                         ],

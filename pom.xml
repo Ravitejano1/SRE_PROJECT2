@@ -15,8 +15,8 @@
   
   <distributionManagement>
     <repository>
-        <id>Sidgs-SRE</id>
-        <url>file:///home/myfolder/.m2</url>
+        <id>Srerelease</id>
+        <url>http://18.209.164.184:8081/repository/Srerelease/</url>
         <layout>default</layout>
     </repository>
   </distributionManagement>
